@@ -1,0 +1,40 @@
+
+https://developer.dji.com/mobile-sdk/
+https://developer.dji.com/mobile-sdk/documentation/introduction/index.html
+https://developer.dji.com/mobile-sdk/documentation/introduction/sdk_architectural_overview.html
+https://developer.dji.com/mobile-sdk/documentation/introduction/product_introduction.html
+https://developer.dji.com/mobile-sdk/documentation/introduction/component-guide-camera.html
+https://developer.dji.com/mobile-sdk/documentation/application-development-workflow/workflow-register.html
+https://developer.dji.com/mobile-sdk/documentation/application-development-workflow/workflow-integrate.html
+https://developer.dji.com/mobile-sdk/documentation/application-development-workflow/workflow-run.html
+https://developer.dji.com/mobile-sdk/documentation/android-tutorials/ActivationAndBinding.html
+https://developer.dji.com/mobile-sdk/documentation/android-tutorials/index.html
+
+SDK Type			Mobile SDK
+APP Name			Airwide
+Software Platform	iOS
+Bundle Identifier 	net.airwide.ios.Airwide
+App Key				409fc49a9ae6075d91d1abed
+Category			CELL TOWER INSPECTION
+Description
+					Cell Tower Mapping System
+
+SDK Type			Mobile SDK
+APP Name			AIRWIDE
+Software Platform	Android
+Bundle Identifier	com.ebridgeai.android.Airwide
+App Key				f80364eceb1facb437f1c45d
+Category			Telecommunications Inspection
+Description
+					Cell Tower Mapping System. Primarily antenna azimuth and tilt estimation for network optimization
+					
+https://www.everythingrf.com/directory/all-antennas/4g-antennas
+
+Levenberg-Marquardt Algorithm
+http://users.ics.forth.gr/~lourakis/levmar/					
+
+https://en.wikipedia.org/wiki/YUV
+
+https://github.com/dtekeshe/awesome-visual-slam
+https://github.com/ethz-asl/mav_tools_public/wiki/Visual-Inertial-Sensors
+https://github.com/dtekeshe/openMVG?organization=dtekeshe&organization=dtekeshe
